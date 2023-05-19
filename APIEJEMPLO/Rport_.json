@@ -1,0 +1,26 @@
+[
+	{
+		"id_externo" : "2060000622_01012023",
+		"fecha_ticket" : "2023-05-01",
+		"nro_ticket" : 171339,
+		"cod_barra" : "77953537",
+		"art_desc_vta" : "BON O BON AGUILA  x 1UN",
+		"depto" : "S/Clasif",
+		"cantidad" : 3,
+		"precio_unitario" : 80.00,
+		"total" : 240.00,
+		"token_id" : 87437024
+	},
+	{
+		"id_externo" : "2060000622_01012023",
+		"fecha_ticket" : "2023-05-01",
+		"nro_ticket" : 171340,
+		"cod_barra" : "9990000000241",
+		"art_desc_vta" : "HAMBURGUESA COMPLETA  x 1UN",
+		"depto" : "VARIOS",
+		"cantidad" : 1,
+		"precio_unitario" : 330.00,
+		"total" : 330.00,
+		"token_id" : 87437024
+	}
+]
